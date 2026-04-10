@@ -74,7 +74,9 @@ This project is based on a fictional training center inspired by Alegria, used a
 
 ## Note
 
-Ce projet a été réalisé avec l’aide de ChatGPT pour structurer le prompt et organiser le workflow, tout en comprenant et en implémentant chaque étape de manière autonome.
+### 🇫🇷 Ce projet a été réalisé avec l’aide de ChatGPT pour structurer le prompt et organiser le workflow, tout en comprenant et en implémentant chaque étape de manière autonome.
+
+### 🇬🇧 This project was carried out with the help of ChatGPT to structure the prompt and organize the workflow, while understanding and implementing each step autonomously.
 
 ---
 
