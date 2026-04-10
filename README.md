@@ -19,7 +19,6 @@ The chatbot uses structured prompting to deliver clear, fast, and relevant answe
 ## Outils utilisés / Tools Used
 
 * Voiceflow
-* Modèle d’intelligence artificielle (LLM)
 * Prompt engineering
 * ChatGPT (assistance for structuring prompts and workflow)
 
