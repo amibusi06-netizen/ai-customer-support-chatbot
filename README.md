@@ -80,7 +80,7 @@ This project is based on a fictional training center inspired by Alegria, used a
 
 ---
 
-## Screenshots
+## Screenshot
 
 <img width="409" height="880" alt="Capture d&#39;écran 2026-04-10 114845" src="https://github.com/user-attachments/assets/76623395-9120-4fcc-8332-a3aba268f6d8" />
 
